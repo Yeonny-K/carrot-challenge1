@@ -1,0 +1,30 @@
+/*!********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./styles/person.module.css ***!
+  \********************************************************************************************************************************************************************************************************************************************************************/
+.person_person__QcLHU {
+    display: grid;
+    grid-template-rows: 1fr auto;
+    grid-gap: 20px;
+    gap: 20px;
+    cursor: pointer;
+    place-items: center;
+  }
+  
+  .person_person__QcLHU img {
+    max-width: 100%;
+    min-height: 100%;
+    border-radius: 10px;
+    transition: opacity 0.3s ease-in-out;
+  }
+  
+  .person_person__QcLHU img {
+    opacity: 0.7;
+  }
+  
+  .person_person__QcLHU img:hover {
+    opacity: 1;
+  }
+  
+  .person_person__QcLHU a {
+    text-align: center;
+  }
